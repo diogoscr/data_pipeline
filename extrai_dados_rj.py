@@ -8,7 +8,7 @@ data_inicio = "2023-01-01"
 data_fim = "2023-02-01"
 
 city = 'RiodeJaneiro'
-key = 'KEY'
+key = '9VQPZTQ59D5L5ZP9K5VT558EJ'
 
 URL = join('https://weather.visualcrossing.com/VisualCrossingWebServices/rest/services/timeline/',
     f'{city}/{data_inicio}/{data_fim}?unitGroup=metric&include=days&key={key}&contentType=csv')
